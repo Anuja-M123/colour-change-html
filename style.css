@@ -1,0 +1,14 @@
+.body{
+    background-image: url("https://media.istockphoto.com/id/165960274/vector/dj-background.jpg?s=612x612&w=0&k=20&c=bebGktQzsz5Eg_OFCvKtS6lAiPZV00438r5D1eApCT8=");
+}
+
+#h1{
+    position: absolute;
+    color: white;
+    left: 200px;
+    top: 70px;
+    font-size:70px;
+    font-style: italic;
+    -webkit-animation-fill-mode: backwards;
+    font-family:cursive;
+}
